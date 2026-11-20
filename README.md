@@ -1,6 +1,6 @@
 # Railway-Reservation-System
 
-# Reg No:
+# Reg No: 212225040192
 # Name:
 # Date:
 
@@ -24,6 +24,7 @@ UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
+
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
@@ -41,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1237" height="892" alt="railway use case" src="https://github.com/user-attachments/assets/b7a03baa-9917-475e-bf53-92d1890f4db4" />
 
 
 
@@ -59,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1183" height="912" alt="railway class" src="https://github.com/user-attachments/assets/33a03941-4b30-4b88-a7b6-53ded94b64b2" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +71,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="1237" height="891" alt="railway communication" src="https://github.com/user-attachments/assets/387a674d-669d-4ab1-8a7c-5418fdd737aa" />
 
 
 
@@ -80,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1210" height="805" alt="railway package" src="https://github.com/user-attachments/assets/7ee35a36-4faa-4d09-94b3-20304be41614" />
 
 
 
@@ -98,6 +105,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1098" height="797" alt="railway activity" src="https://github.com/user-attachments/assets/fbe8632c-d976-4457-94fd-c760a66f4b30" />
 
 
 
@@ -120,6 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1195" height="800" alt="railway sequence" src="https://github.com/user-attachments/assets/ee563a13-d0af-42a8-8697-c26755e7184d" />
 
 
 
